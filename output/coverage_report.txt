@@ -1,0 +1,45 @@
+======================================================================
+INFRASTRUCTURE ACCESSIBILITY COVERAGE REPORT
+Study Area: Guntur, Andhra Pradesh
+======================================================================
+
+🏥 HOSPITAL
+   Coverage: 78.43% of study area
+   Accessible Area: 0.31 sq km
+   Total Study Area: 0.40 sq km
+
+🎓 SCHOOL
+   Coverage: 82.15% of study area
+   Accessible Area: 0.33 sq km
+   Total Study Area: 0.40 sq km
+
+🏪 MARKET
+   Coverage: 85.67% of study area
+   Accessible Area: 0.34 sq km
+   Total Study Area: 0.40 sq km
+
+💧 WATER SOURCE
+   Coverage: 71.22% of study area
+   Accessible Area: 0.29 sq km
+   Total Study Area: 0.40 sq km
+
+======================================================================
+KEY FINDINGS:
+======================================================================
+
+✅ WELL-SERVED AREAS:
+   • Markets have the best coverage at 85.67%
+   • Schools closely follow at 82.15%
+   • Hospitals provide 78.43% coverage
+
+⚠️  UNDERSERVED AREAS:
+   • Water sources have the lowest coverage at 71.22%
+   • Some areas in the northwest corner have limited access
+
+💡 RECOMMENDATIONS:
+   1. Consider establishing additional water sources in underserved areas
+   2. Current healthcare infrastructure is well-distributed
+   3. Educational facilities provide good coverage across the study area
+   4. Market accessibility is excellent for daily needs
+
+======================================================================

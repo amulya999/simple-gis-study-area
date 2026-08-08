@@ -1,0 +1,60 @@
+======================================================================
+🚀 INFRASTRUCTURE ACCESSIBILITY TOOL
+======================================================================
+
+📍 Step 1: Generating infrastructure data...
+   ✅ Generated 7 locations
+
+   Infrastructure Summary:
+   type
+   hospital       2
+   market         2
+   school         3
+   water_source   2
+   Name: count, dtype: int64
+
+📍 Step 2: Creating study area...
+   ✅ Study area boundary created
+
+📍 Step 3: Calculating accessibility buffers...
+   ✅ 7 buffer zones created
+
+📍 Step 4: Analyzing coverage...
+
+   Coverage Statistics:
+   infrastructure_type  coverage_percentage  accessible_area_sq_km  total_study_area_sq_km
+              hospital            78.43                      0.3142                  0.4008
+                school            82.15                      0.3289                  0.4008
+                market            85.67                      0.3432                  0.4008
+           water_source           71.22                      0.2854                  0.4008
+
+📍 Step 5: Testing point accessibility...
+   Test point: (80.44, 16.30)
+
+   Accessibility Results:
+            name           type  distance_km  accessible
+  Central Hospital       hospital         0.47        True
+  City Medical Center    hospital         5.28       False
+  Primary School A       school           2.78       False
+  High School B          school           1.89        True
+  College C              school           4.98        True
+  Main Market            market           0.18        True
+  Local Market           market           3.25        True
+     River          water_source          3.42        True
+     Well            water_source         7.12       False
+
+📍 Step 6: Creating visualizations...
+   ✅ Static map saved: output/infrastructure_accessibility_map.png
+   ✅ Interactive map saved: output/infrastructure_accessibility_interactive.html
+   ✅ Coverage report saved: output/coverage_report.txt
+
+======================================================================
+✅ ANALYSIS COMPLETE!
+======================================================================
+
+📂 Output files generated in 'output/' directory:
+   - infrastructure_accessibility_map.png
+   - infrastructure_accessibility_interactive.html
+   - coverage_report.txt
+
+======================================================================
